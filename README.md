@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm studying Computer Science.<br><br>Learning Web and Mobiel Development.<br><br>I am proficient in the languages of English and Portuguese.</p>
+<p align="left">I'm studying Computer Science.<br><br>Learning Web and Mobile Development.<br><br>I am proficient in the languages of English and Portuguese.</p>
 
 ###
 
