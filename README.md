@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm studying Computer Science.<br><br>Currently learning Mobile Development.<br><br>I am proficient in the languages of English and Portuguese. I also enjoy soulslike games :p</p>
+<p align="left">I'm studying Computer Science.<br><br>Currently learning Mobile Development.<br><br>I am proficient in the languages of English and Portuguese. I also enjoy Soulslike games :p</p>
 
 ###
 
